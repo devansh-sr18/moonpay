@@ -20,6 +20,8 @@ const HomePage = () => {
             baseCurrencyCode="usd"
             baseCurrencyAmount="100"
             defaultCurrencyCode="eth"
+            walletAddress="0xc216eD2D6c295579718dbd4a797845CdA70B3C36"
+            email="devansh@sr18payments.com"
             visible={visible}
         />
     </div>
